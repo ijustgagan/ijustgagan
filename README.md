@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ijustgagan
-- 👀 I’m interested in data science and cyberv security domain 
-- 🌱 I’m currently learning python , flask library, numpy, pandas, matplotlib, streamlit, 
-- 💞️ I’m looking to collaborate on projects related to cyber security and python
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ijustgagan  
+- 👀 I’m interested in **MERN stack development, web designing, animations, Three.js, and AR/VR applications**.  
+- 🌱 I’m currently learning **MERN stack, Three.js, Tailwind CSS, and advanced web animations**.  
+- 💞️ I’m looking to collaborate on **MERN stack projects, AR/VR applications, and projects with dynamic web animations**.  
+- 📫 How to reach me: email:- rathoregagan726@gmail.com , linkdin: https://www.linkedin.com/in/gagan6103
 
 <!---
 ijustgagan/ijustgagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
